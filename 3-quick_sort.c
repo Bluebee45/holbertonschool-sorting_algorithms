@@ -1,5 +1,5 @@
 
-i#include "sort.h"
+#include "sort.h"
 
 /**
  * swap_int - function that swap two integers
